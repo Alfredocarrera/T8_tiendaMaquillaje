@@ -219,3 +219,4 @@ T8_tiendaMaquillaje/
 ├── DQL.sql
 └── README.md
 ```
+version final.
